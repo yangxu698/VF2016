@@ -7,10 +7,10 @@ library(ldatuning)
 library(tidytext)
 library(topicmodels)
 
-wd = "/home/yang/VF2016Combined/"
-setwd(wd)
+## wd = "/home/yang/VF2016Combined/"
+## setwd(wd)
 
-df1_dfma_trimmed = readRDS("df1_dfma_trimmedEditorial Local.rds")
+df1_dfma_trimmed = readRDS("../Editorial Local_df1_dfma_trimmed.rds")
 
 # Topics Search
 
@@ -19,11 +19,11 @@ dtm_test_trimmed <- convert(df1_dfma_trimmed, to="topicmodels")
 
 result_trimmed <- FindTopicsNumber(
                         dtm_test_trimmed,
-                        topics = seq(from = 2, to = 21, by = 1), #I increased to 25 since there are a large number of documents; for NG < 60 I used 10
+                        topics = seq(from = 2, to = 10, by = 9), #I increased to 25 since there are a large number of documents; for NG < 60 I used 10
                         metrics = c("Griffiths2004","CaoJuan2009","Arun2010","Deveaud2014"),
                         method = "Gibbs",
                         control = list(seed=8999, iter=7500, burnin=2500, alpha=1, delta=1),
-                        mc.cores = 20L,
+                        mc.cores = 9L,
                         verbose = TRUE
                       )
 

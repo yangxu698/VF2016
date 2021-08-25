@@ -10,7 +10,7 @@ library(topicmodels)
 ## wd = "/home/yang/VF2016Combined/"
 ## setwd(wd)
 
-df1_dfma_trimmed = readRDS("../Editorial Wire_df1_dfma_trimmed.rds")
+df1_dfma_trimmed = readRDS("../Letters Local_df1_dfma_trimmed.rds")
 
 # Topics Search
 
@@ -28,6 +28,6 @@ result_trimmed <- FindTopicsNumber(
                       )
 
 FindTopicsNumber_plot(result_trimmed)
-ggsave("Editorial_Wire.png")
+ggsave("Letters_Local.png")
 # "Griffiths2004",
-saveRDS(result_trimmed, paste0("topics_search_result","Editorial_Wire.rds"))
+saveRDS(result_trimmed, paste0("topics_search_result","Letters_Local.rds"))

@@ -55,7 +55,7 @@ for (element in section){
               corpus() %>%
               dfm(remove_url = TRUE, remove_numbers = TRUE, remove_punct = TRUE, remove_separators=TRUE, remove_symbols=TRUE, verbose=TRUE) %>%
               dfm_remove(pattern = c(stopwords("english"),"=","<",">","+","u","e.g","etc","may","include","can","see","eg","must","time","i.e","s","t","https","m","com","also","need","just","said",
-                            "like","going","know","according","get","now","re","even"), min_nchar=3, max_nchar=20, verbose=TRUE)
-    saveRDS(df1_dfma_trimmed, paste0("df1_dfma_trimmed", element, ".rds"))
+                            "like","going","know","according","get","now","re","even"), verbose=TRUE)
+    saveRDS(df1_dfma_trimmed, paste0(element, "_df1_dfma_trimmed.rds"))
 
 }
