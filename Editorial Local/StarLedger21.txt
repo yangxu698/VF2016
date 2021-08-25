@@ -1,0 +1,47 @@
+
+STATE SAYS IT'S GUARDING AGAINST HACKERS
+Newspaper October 25, 2016 | Star-Ledger, The (Newark, NJ)
+Author: S.P. Sullivan Section: News 673 Words
+Page: 2
+It's rigged. Riddled with voter fraud. Vulnerable to foreign hackers.
+
+Right?
+
+Never in modern history has the integrity of the electoral process in the U.S. faced as much scrutiny as this election season, with a major party candidate refusing to commit during a presidential debate to accepting the results should he lose.
+
+By and large, studies have shown these concerns to be unfounded, but the FBI raised the alarm earlier this year that Russian hackers had broken into voter registration systems in two states. New Jersey's own electoral system has also seen its share of hiccups, including a disastrous attempt at emergency e-mail voting in the aftermath of Hurricane Sandy.
+
+Voting in the U.S. is run by state and local authorities, and election officials from both parties in New Jersey have expressed confidence ahead of the Nov. 8 election.
+
+Homeland security experts are watching, too.
+
+NJ Advance Media recently spoke to Chris Rodriguez, the head of the state Office of Homeland Security and Preparedness, which monitors election activity from its cybersecurity cell at the State Police Regional Operations and Intelligence Center.
+
+Q. There have been reported attempts to compromise election systems in as many as 20 states this year. What do we know?
+
+A. Arizona allows their citizens to register to vote online, and that is actually an internet public-facing service. What happened in the case of Arizona is some credentials of election officials had been stolen and used to access that voter registration system.
+
+In New Jersey, it's not an option for citizens to register online. You have to fill out a form and send it to your county clerk's office, and that information is then sent to a third-party vendor that handles voter registration.
+
+Q. How are state cyber security experts involved in New Jersey's elections?
+
+A. We are working with the state Division of Elections and with our federal partners to look at the state's systems, to ensure that there's no malicious or suspicious activity on the systems.
+
+Q. How are you performing those checks and what are they telling you?
+
+A. The voter registration network that the state maintains is done through a third party vendor, and for months we've been scanning those systems in cooperation with the third-party vendor.
+
+The Department of Homeland Security and the FBI have provided us IP addresses and some malicious activity they're seeing on other systems, and we're running those addresses and some of those other threat indicators on that voter registration third-party system. To date, we've found no vulnerabilities.
+
+Q. Is there anything about New Jersey's voting systems that has you worried?
+
+A. There's no system that's impenetrable. But we're being very diligent and proactive in terms of the security measures we're putting in place.
+
+Take, for example, the voter registration network that's managed through a third-party vendor. (Federal and state experts) have done scans on that network and found no vulnerabilities, but as an added security measure, we've contracted with another third-party private firm to scan that same system. They found no vulnerabilities.
+
+There are thousands of voting stations across the state, and we work with local authorities to ensure that the ballot boxes and the machines are physically secure. Those voting machines are also not linked to the internet.
+
+Q. So to compromise the electronic machines in New Jersey, you'd have to do it one by one?
+
+A. Right. Each voting machine logs the votes, then there's a disk taken out and uploaded to a standalone computer that's only used for transmitting that voter information to the state Division of Elections for eventual counting. And that connection is made by a virtual private network, which is only used to transmit that specific information. There are firewalls that exist around those networks. As an added security measure, we're working with all 21 county clerks to make sure we are identifying and validating who has access to those systems.
+Copyright (c) 2016 The Star-Ledger. All Rights Reserved.

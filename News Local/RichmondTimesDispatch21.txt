@@ -1,0 +1,50 @@
+
+Virginia's voting system is secure, officials say
+Newspaper November 6, 2016 | Richmond Times-Dispatch (VA)
+Author: GRAHAM MOOMAW Richmond Times-Dispatch Section: Main 684 Words
+Page: 20A
+
+To rig Virginia's elections, a would-be fraudster would have to navigate a patchwork of paper balloting systems and touchscreen machines, none of which are connected to the internet.
+
+After experiencing problems in 2014 with wireless-capable voting machines, the state is in the process of phasing out all touchscreen systems by 2020.
+
+Most localities in central Virginia and Northern Virginia will use scanned paper ballots on Election Day, while many voters in Southwest and Southside Virginia will use touchscreens.
+
+The ground-level work of conducting the election will be carried out by 133 local election offices and watched by Democratic and Republican poll observers, making the prospect of a widespread scheme all the more unlikely.
+
+Republican presidential nominee Donald Trump repeatedly has called the election "rigged," but leaders of his Virginia campaign haven't directly questioned the integrity of the voting process in their own state.
+
+Virginia Department of Elections Commissioner Edgardo Cortés called the talk of election-rigging "very unfortunate."
+
+"This notion that it's going to be rigged and someone is secretly going to alter results or do anything like that is just not accurate. The voting process itself is a very public thing," said Cortés, an appointee of Gov. Terry McAuliffe, a Democrat.
+
+The Trump campaign's Virginia chairman, conservative radio talk-show host John Fredericks, said "thousands" of pro-Trump poll watchers will be deployed to observe and report any irregularities. Fredericks said he favors paper ballots because they're easier to track.
+
+"No paper means no trail," Fredericks said. "No trail means you can never really be certain as to what happened."
+
+Last year, the State Board of Elections banned the use of WinVote touchscreen machines, saying their wireless features made them vulnerable to cyberattacks and posed an "unacceptable risk" to Virginia's electoral process.
+
+At the time, WinVote machines were used in about one-fifth of the state's voter precincts.
+
+After the 2014 general election, poll workers in Spotsylvania County told state officials that they believed one election officer's use of a smartphone to stream music on a wireless network caused voting machines to crash in their precinct. During a subsequent investigation, an auditor was able to use a smartphone to connect to the wireless network the machines used to communicate with one another.
+
+After the WinVote machines were decommissioned, buying new touchscreens wasn't an option. In 2007, the General Assembly barred localities from buying new touchscreen systems due to concerns about wireless vulnerabilities.
+
+The prospect of election-related cyberattacks - particularly intrusions tied to Russia - led national security officials to issue a statement last month saying that some states have detected "scanning and probing of their election-related systems" by Russian servers but concluded it would be "extremely difficult" for any hacker to change actual votes or election results.
+
+In a radio appearance last month, McAuliffe stressed the fact that Virginia's voting machines are not connected to the internet.
+
+"That is a myth that exists," McAuliffe said. "There is no connectivity."
+
+General Assembly Republicans have drawn attention to an incident of potential voter registration fraud in Harrisonburg in which nearly 20 dead people were registered to vote.
+
+Democrats have raised doubts about whether the Harrisonburg case, which is under investigation but has not led to criminal charges, could have led to actual in-person voter fraud. Casting a ballot using a false identity is further complicated by Virginia's Republican-backed voter ID law.
+
+McAuliffe called Virginia's election system "very, very strong."
+
+"Nobody who is not allowed to vote is going to be allowed to vote, McAuliffe said.
+
+gmoomaw@timesdispatch.com
+
+(804) 649-6839
+© Copyright 2016, Richmond Times-Dispatch, Richmond, VA

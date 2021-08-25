@@ -1,0 +1,61 @@
+
+Sunday PolitiFact National story on whether WikiLeak documents are authentic
+Newspaper October 27, 2016 | Richmond Times-Dispatch: Web Edition Articles (VA)
+Author: LAUREN CARROLL PolitiFact National Section: News 1036 Words
+
+Democratic presidential nominee Hillary Clinton and her campaign have sought to cast doubt on the authenticity of thousands of emails leaked by WikiLeaks showing the inner workings of Clinton's campaign.
+
+It's not just that they came from Russian hackers in an attempt to meddle in the U.S. election, they say. But also that they might have been doctored.
+
+Clinton's running mate, Virginia Sen. Tim Kaine, raised the possibility last week in an interview with Chuck Todd on "Meet the Press." Before posing a question about the email leak to Kaine, Todd said, "I know you have a blanket statement here: You don't want to respond because you don't believe that they have been confirmed."
+
+"Well, you know, Chuck, again these are connected to a Russian government propaganda effort to destabilize the election," Kaine responded.
+
+Kaine later added: "The one (email) that has referred to me was flat-out completely incorrect. So I don't know whether it was doctored or whether the person sending it didn't know what they were talking about. Clearly, I think there's a capacity for much of the information in them to be wrong."
+
+Is there?
+
+It's possible to verify the legitimacy of some, but not all, of the emails, cybersecurity experts said. So we can't definitively say that none of the thousands of leaked emails, which came from campaign chair John Podesta's account, have been doctored.
+
+Experts told PolitiFact that there is precedent to support Kaine's claim. While most of the emails probably are unaltered, they said there is a chance that at least a few have been tampered with in some way.
+
+"I've looked at a lot of document dumps provided by hacker groups over the years, and in almost every case you can find a few altered or entirely falsified documents," said Jeffrey Carr, CEO of cybersecurity firm Taia Global. "But only a few. The vast majority were genuine. I believe that's the case with the Podesta emails, as well."
+
+"I would be shocked if the emails weren't altered," said Jamie Winterton, director of strategy for Arizona State University's Global Security Initiative, citing Russia's long history of spreading disinformation.
+
+Experts pointed to the Democratic National Committee email hack that happened earlier this year. Metadata from the stolen and leaked documents showed the hackers had edited documents. For example, hackers were kicked out of the DNC network June 11, yet among their documents is a file that was created on June 15, Thomas Rid, a war studies professor at King's College London, has found.
+
+A few weeks later, Guccifer 2.0, a hacker believed to have Russian ties, released documents supposedly stolen from the Clinton Foundation. But security analysts reviewed the documents and found that they actually came from the DNC hacks, not the foundation. And some of the information likely was fabricated, like a folder conspicuously titled "Pay to Play."
+
+In massive document dumps such as the Podesta email leak, the risk of encountering altered documents is heightened because it's easy to slip them in among thousands of genuine documents, said Susan Hennessey, a Brookings Institution fellow and former lawyer for the National Security Agency.
+
+"It is possible the WikiLeaks dump of Podesta's emails includes forged or altered documents," Hennessey said. "With any large leak, it is wise to proceed with caution and skepticism and verify the authenticity of documents before reporting."
+
+The Clinton campaign, however, has yet to produce any evidence that any specific emails are fraudulent. We asked the campaign, and they directed us to various news reports about the DNC hack, government concerns that Russia might fake evidence of voter fraud and fake news sites spreading false information about the WikiLeaks emails.
+
+The email about Kaine
+
+Kaine specifically mentioned one email on "Meet the Press" that referenced him and "was flat-out completely incorrect."
+
+Kaine was talking about an email in the Podesta dump that this month fueled rumors Clinton had picked Kaine as her choice for running mate in 2015. The July 25, 2015, email was from political consultant Erick Mullen, and the subject was "Bob Glennon." The Clinton campaign would not confirm the authenticity of the email or identify who Glennon is.
+
+But the email suggests Glennon had told two Democratic senators — Sherrod Brown of Ohio and Heidi Heitkamp of North Dakota — that Clinton already had told Kaine he was her vice presidential pick.
+
+Mullen wrote that Glennon "Won't stop assuring Sens Brown and Heitkamp (at dinner now) that HRC has personally told Tim Kaine he's the veep. A little unseemly."
+
+The email does not, however, indicate whether Glennon's information was correct, nor do we have anything but Kaine's word to refute the idea that he knew about his nomination in advance. We reached out to Mullen, but he declined to comment.
+
+We do know, though, that no one has doctored this particular email. Well-known hacker Robert Graham verified the email's digital signature, a tool that email providers use to confirm that an email actually came from the provider's server without alteration.
+
+These digital signatures are embedded in the raw sources available on the WikiLeaks website and can be used to "concretely prove that many of the emails in the Wikileaks dump are undoctored," said cybersecurity consultant Matt Tait.
+
+However, some of the emails in the WikiLeaks dump — especially among emails sent to Podesta — don't have these signatures and can't be technically verified. And digital signature verification wouldn't detect tampering by omission, such as if the hackers were to withhold certain emails.
+
+"Therefore my conclusion remains the same: Tim Kaine is at least partially wrong here," Tait said. "We know for sure that John Podesta was hacked, and we know for sure that many of his real emails have been published via Wikileaks. But his caution isn't entirely unfair."
+
+So why doesn't the Clinton campaign provide some evidence that emails have been doctored, like publishing original emails? Experts pointed to political calculation.
+
+By saying the emails may be inaccurate generally, the campaign can plausibly deny certain facts that the emails reveal. If they offer proof that a particular leaked email is fake, however, that risks giving the impression that any emails they do not refute are accurate. Or they just might not want the original email to become public for any number of reasons.
+
+"It boxes the campaign into a bad spot," Winterton said.
+© Copyright 2016, Richmond Times-Dispatch, Richmond, VA

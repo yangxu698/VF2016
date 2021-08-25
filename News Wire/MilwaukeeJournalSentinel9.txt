@@ -1,0 +1,55 @@
+
+Team of more than 1,000 observers saw no voting fraud
+Newspaper November 28, 2016 | Milwaukee Journal Sentinel: Web Edition Articles (WI)
+Author: Jessica Huseman and Scott Klein ProPublica Section: News 1378 Words
+Team of more than 1,000 observers saw no voting fraud
+President-elect Donald Trump took to Twitter on Sunday to claim that he would have won the popular vote "if you deduct the millions of people who voted illegally."
+
+There is no evidence that millions of people voted illegally. If there were, we'd have seen some sign of it.
+
+ProPublica was an organizing partner in Electionland, a project run by a coalition of organizations including Google News Lab, Univision, WNYC, the CUNY Graduate School of Journalism and the USA Today Network. We monitored the vote with a team of more than 1,000 people, including about 600 journalism school students poring over social media reports and more than 400 local journalists who signed up to receive tips on what we found. We had access to a database of thousands of calls made to a nonpartisan legal hotline. We had four of the nation's leading voting experts in the room with us and election sources across the country. Thousands of people texted us to tell us about their voting experience.
+
+We had an unprecedented real-time understanding of voting in the United States, and while we saw many types of problems, we did not see mass voter fraud of any kind — especially of the sort Donald Trump alleges.
+
+Trump's claim tracks closely with an Infowars piece published less than a week after the election, claiming that 3 million votes were cast by illegal aliens. The website, run by conservative radio host and noted conspiracy theorist Alex Jones, attributed the number to an unsubstantiated tweet by Gregg Phillips, the founder of VoteStand, a voter fraud app. While Infowars attributed the number to VoteFraud.org, there has been no report on the number by VoteFraud.org and Phillips told Politifact he was not affiliated with the organization. He would not provide Politifact with any information about how he arrived at the number, saying he was still verifying its accuracy. As Politifact points out, there is no evidence to support the number.
+
+On a call Monday morning with reporters, Trump transition spokesman Jason Miller cited two studies to back up the president-elect's claim of illegal voting. The research, he said, spoke to "issues of both voter fraud and illegal immigrants voting."
+
+Experts say the studies did not speak to these issues. The first study Miller cited was published in 2014 and has been widely debunked by a number of researchers. While the study claimed that 14 percent of non-citizens were registered to vote, that turned out to be an error in self-reporting. The question pertaining to citizenship was confusing, leading citizens to regularly mark themselves as non-citizens.
+
+Miller also cited a 2012 Pew Study which found that there were thousands of people on the rolls who had moved or died. David Becker, now the executive director of the Center for Election Innovation & Research, was the primary author of the study, and told us there was "no link" between this study and voter fraud.
+
+"The rolls are out of date because people are moving or dying in the normal course of things, not because people go and intentionally register in two states," he said, adding that his two decades of experience has shown him that out-of-date rolls are not used for fraud. He added that now that 20 states are participating in the Electronic Registration Information Center Inc. — or ERIC — which allows states to share registration information, the voting rolls in 2016 were "far more up to date" than the rolls in 2012.
+
+Beyond the study, Becker said the warning signs of millions of ineligible voters casting ballots are simply not present, nor were they on Election Day, which Becker spent in the Electionland newsroom. In fact, he said, it's likely Electionland — and many other election observers — would have known about this long before the election actually took place.
+
+"There would have been an unprecedented number of new registrants that would not have had matched social security or driver's license numbers," Becker said. "There was no exceptional registration, there were no crazy long lines, there were no language difficulties, and there wasn't an exceptionally high number of mail-in ballots."
+
+Tammy Patrick, another Electionland expert and a fellow at the Bipartisan Policy Center, said that no elections officials have raised flags related to tampering. Jurisdictions do regular audits to ensure that the number of sign-ins equals the number of votes being cast, and none of those audits have found problems. In fact, with the fervor raised in advance by the president-elect himself, Patrick said this election was the best monitored in her memory.
+
+"People were watching," she said. "We had more international observers than ever before. Thousands of political party observers at the polls. Campaign observers in the polling places."
+
+Third-party candidate Jill Stein has raised less sweeping doubts about the validity of the vote. These came on the heels of a Nov. 22 piece in New York Magazine, claiming that researchers had found "persuasive evidence that results in Wisconsin, Michigan, and Pennsylvania may have been manipulated or hacked." The story went on to say that "in Wisconsin, Clinton received 7 percent fewer votes in counties that relied on electronic-voting machines compared with counties that used optical scanners and paper ballots."
+
+Stein has now used this study in her recount petitions in both Wisconsin and Pennsylvania.
+
+However, the story did not seem to hold up under scrutiny. One of those researchers, J. Alex Halderman, writing in a Medium post, disagreed with New York Magazine's characterization of his research, saying only that systems were vulnerable, pointing to the hacks on the Democratic National Committee and the voter registration systems in Illinois and Arizona. He did, however, call for manually checking paper ballots.
+
+Nate Silver at 538 and others rebutted the New York Magazine claims via Twitter and later in a longer story. Silver pointed out, among other things, that in Wisconsin, the disparity between counties that use paper ballots and ones that use electronic voting systems disappears when controlling for race and education.
+
+Charles Stewart, elections expert and professor at MIT, noted in his blog, "virtually all" ballots in Wisconsin and Michigan were cast on paper, so the "core empirical claim" of the New York Magazine story "cannot be true."
+
+But Stein, citing "very troubling news about the possibility of security breaches in voting results," created a crowdsourcing campaign to fund a recount effort in Wisconsin, Michigan and Pennsylvania. She first set a fundraising goal of $2 million, which was very quickly met, and raised it ultimately to $7 million, where it currently stands as we write this.
+
+The Clinton campaign is participating in the Wisconsin recount process. Marc Elias, general counsel to the Clinton campaign, expressed skepticism, saying that the campaign had "not uncovered any actionable evidence of hacking or outside attempts to alter the voting technology," but that they would participate in the recount "in order to ensure the process proceeds in a manner that is fair to all sides."
+
+Both Becker and Patrick say the idea that a hack could meaningfully impact an election is far-fetched. In Wisconsin alone, there are 1,800 jurisdictions, none of which have machines connected to the internet, said Becker. "It would have taken thousands of people working in concert without being discovered to hack the result, just in Wisconsin," he said.
+
+And while some have asserted that malware could have been built into the software used to run electronic voting machines and optical scanners for paper ballots, Patrick said this would either require a lot of foresight or time travel.
+
+"This software is years old. The voting machines are not new. Someone would have had to — years ago — decide they were going to hack this election, without knowing who the candidates are," she said.
+
+While it's important to investigate voting irregularities, claims made without evidence about fraudulent voting and hacking may have costs that go beyond the expense of a recount. Studies suggest that voters — especially low-information voters — who fear that their vote may be tampered with might not vote at all.
+
+Members of the losing party often blame defeats on flaws in the voting system, Becker said. He said it's "particularly difficult" this year, when all of the polls seemed to be lined up against the ultimate winner, "but it doesn't change the facts about the process."
+© 2016 Journal Media Group

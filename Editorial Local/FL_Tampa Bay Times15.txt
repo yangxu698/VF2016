@@ -1,0 +1,53 @@
+TAKING STOCK OF A BRUISED '16 ELECTION 
+December 18, 2016 | Tampa Bay Times (FL) 
+Author: JON GREENBERG 
+Section: PERSPECTIVE 
+1217 Words 
+Page: 1 
+OpenURL 
+Link 
+Faith in elections goes to the core of the American idea of democracy. That faith has been challenged before, but this year, the attacks came from many directions. 
+There were repeated allegations of voter fraud, which for the most part turned out to be false. The government warned that Russia tried to influence the election through hacking and strategic document dumps. And fake news reports about the presidential candidates circulated on the Internet and via Facebook. 
+On Monday, the 538 electors in the electoral college will vote to seal an election that stands as one of the most battered the country's seen in a long time. They take their seats knowing that the winning candidate actually lost the popular vote by about 2.8 million votes. In the Rust Belt states that carried the election for Donald Trump, about 80,000 votes from his supporters made the difference. 
+With the election that close, PolitiFact has been fact-checking claims about the integrity of the vote. We found that claims about voter fraud are for the most part overblown or unfounded. 
+Voting wasn't fixed 
+Trump talked about voter fraud off and on for most of the campaign. On Oct. 17, 2016, he tweeted, "Of course there is large scale voter fraud happening on and before election day. Why do Republican leaders deny what is going on? So naive!" 
+We rated that claim Pants on Fire. There was no evidence then, and there has been no evidence since, of "large scale voter fraud." 
+The Washington Post reported that so far there were a total of four confirmed cases of voter fraud nationwide in the 2016 election. That's out of about 135 million votes cast. 
+Trump's upset victory didn't change his message. Trump touted California, New Hampshire and Virginia (all states he lost) as centers of "serious voter fraud." PolitiFact's partners in those states dug in and found nothing. Even the head of the Trump campaign in Virginia said there was no there there. 
+Nationally, he claimed that "millions of people voted illegally." 
+One of the fullest investigations on this theme came out of Iowa. In 2012, Republican Secretary of State Matt Schultz revealed that more than 1,000 registered voters had indicated at some point that they were not citizens yet nevertheless, had still voted. 
+A full criminal investigation followed. It produced one guilty verdict, involving a Bosnian who as a felon was doubly ineligible. When the state issued its final report in 2014, six cases were still in process. 
+That's one guilty verdict -involving a felon -out of nearly 2.2 million registered voters in 2012. Even if the additional six were found guilty, it would be a fraction of a fraction of a fraction of 1 percent. 
+To get an idea of how far off the mark Trump was, we took the worst-case results in Iowa -seven instances of noncitizens voting out of more than 2 million voters -and applied that to the 200 million registered voters in America. 
+The result didn't crack the 1,000 mark. You could multiply that by 10 and Trump would still be wildly off base. 
+Tough to hack the vote 
+Trump's tweets were aimed at rallying his own followers, but the election results fueled the same suspicions from his opponents. People who opposed Trump worried that the election results were fixed in his favor. 
+The liberal news feed Daily Kos, for example, carried a photo of a damaged seal on a voting machine in St. Croix, Wis., and posed the question that results could have been tampered with. But when the rumor-debunking website Snopes followed up, there was a simple explanation. 
+A manager with the firm that supplied the machine told Snopes that a technician had worked on the machine and then forgot to replace a warranty seal. But in terms of protecting the vote, those seals don't mean anything. 
+"These are warranty seals used by technicians and should not be confused with security seals that the county would have used on election day," the manager wrote. 
+In Detroit, election officials discovered that in 59 percent of the precincts, the number of ballots cast didn't match the number counted by the polls' optical scanning boxes. The culprit was optical scanners that jammed on election day. 
+Statistician and voting systems analyst Philip Stark at the University of California at Berkeley told us that optical scanners are good but not perfect. 
+"I've seen error rates on the order of one-quarter of a percent," Stark said. 
+In any election where the outcome was that close, a recount is a virtual certainty. 
+Each state sets its own standards for protecting the vote. They use different voting machines and different ways to double-check the accuracy of the count. Some states require photo identification and others don't. 
+Cybersecurity experts say this variation alone makes systemic hacking unlikely. It simply would take too much work to penetrate enough systems to have any effect on the outcome. 
+"There's been no evidence of widespread voter fraud or widespread malfunction of equipment," Stark said. 
+Most states use systems that generate a paper trail for each vote. That's seen as the best way to ensure an accurate tally. A 2012 assessment found that three-quarters of the states follow that practice. That study looked at five measures of state election readiness and provided overall ratings. Only three states, Mississippi, Delaware and Louisiana, were rated "inadequate." 
+Thad Hall is co-author of some of the leading books and reports on election systems. Hall said that the 2000 election led to significant improvements. Many states now link their voter rolls to their driver's license database and have invested in more training for election workers. 
+"Elections have become much more professional," Hall said. "There might be mistakes, but pulling off large-scale fraud would be a lot harder today." 
+A mistrustful electorate 
+The traditional concern about the integrity of the vote centers on the actual act of voting. In the past month, more of the conversation has focused on manipulation before people cast their ballots. 
+The CIA's belief that Russia aimed to undermine Hillary Clinton has led at least one Democratic lawmaker to call for a delay in the Electoral College vote until the electors have a chance to see what the government knows. 
+Couple that with the turmoil over fake news (Facebook-powered fabrications that PolitiFact awarded Lie 
+That's the conclusion of Robert Jones, head of the Public Religion Research Institute. 
+The institute tracks public feelings about civic institutions. 
+Before the election, its survey found that only 43 percent of Americans had a great deal of confidence that their vote would be counted accurately. Jones said the latest news hits a populace that was already worried. 
+"Any one of these things might not matter," Jones said. "But there's a cumulative effect. Likely Russian interference and fake news. Once you get four or five of these things, it's more likely to undermine people's confidence." 
+The institute had one encouraging finding. 
+In a survey right after the election, it asked respondents to name the most serious problem with the election system. Only 6 percent picked widespread voter fraud. 
+But Jones said the pre-election data is troubling. To him it suggests that many Americans are ready to believe that elections no longer work. 
+Contact Jon Greenberg at jgreenberg@tampabay.com. Follow @JonZGreenberg. 
+Copyright (c) 2016 Tampa Bay Times 
+Citation (aglc Style) 
+JON GREENBERG, TIMES STAFF WRITER, 'TAKING STOCK OF A BRUISED '16 ELECTION', Tampa Bay Times (online), 18 Dec 2016 1 http://haproxy.newsbank.com:11021:11021/apps/news/document-view? p=AWNB&docref=news/161614E8CE986F58 

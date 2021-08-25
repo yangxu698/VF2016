@@ -1,0 +1,25 @@
+U.S. voting systems vulnerable to attack 
+October 4, 2016 | Lexington Herald-Leader (KY) 
+Author: Mary Sanchez 
+Section: News 
+407 Words 
+Page: 7A 
+OpenURL 
+Link 
+How vulnerable to tampering or malfunction will our electoral system be Nov. 8 when millions show up to cast their ballots? It's a topic of considerable interest. 
+"I'm afraid the election is going to be rigged, I have got to be honest," Trump told Ohio voters in August, according to CBS News. 
+He was not being honest. He was hedging the possibility that he will be the loser. 
+However, there are serious problems that need attention. For example, America's voting machines are aging. Many are approaching the end of their intended lifespan. Voting machines are designed to last about 10 to 15 years, and a significant number in the U.S. are beginning to face the end of their cycles. 
+A full 42 states have voting machines that are at least a decade old, and 14 states have some polling places where there is no paper trail to backtrack and recheck the tallies. That's according to the nonpartisan Brennan Center for Justice, which has been trying valiantly to draw attention to the status of the nation's voting machines. 
+The issue is finally getting some attention thanks to recent headlines about the security breach of the Democratic National Committee's email servers, suspected to be the work of Russian hackers. Hackers also attempted unsuccessfully to breach voter databases Arizona and Illinois. 
+The danger of cyber-attacks -or any tinkering with the voting system -is a lot like terrorism. The mere threat of it, the fear of it, does the most damage. 
+There are more than 10,000 voting jurisdictions. And few votes are cast over the Internet or through machines connected to the Internet. That means there isn't one place for hackers to remotely target. 
+Brennan estimates that at least 80 percent of registered voters in November will vote on a paper ballot, or through a machine that produces a paper trail. 
+The Brennan Center has encouraged election officials across the country to keep backups, including paper copies of registration lists, to conduct automated scans that check for fraudulent activity, to audit after the election. And the need to replace older equipment, is finally receiving attention. 
+Meanwhile, there is good news on another threat to the right to vote, one perpetrated in by state legislatures under the guise of preventing voter fraud. Restrictive voter identification laws have been 
+challenged in the courts and are being beaten back for unconstitutional overreach. 
+In this election, being an informed voter has taken on new meaning and new significance. 
+Reach Mary Sanchez at msanchez@kcstar.com. 
+Copyright (c) 2016 Lexington Herald-Leader 
+Citation (aglc Style) 
+Mary Sanchez, Staff Writer, 'U.S. voting systems vulnerable to attack', Lexington Herald-Leader (online), 4 Oct 2016 7A http://haproxy.newsbank.com:11021:11021/apps/news/documentview?p=AWNB&docref=news/15FD1969B792CE80 

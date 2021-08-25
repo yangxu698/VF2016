@@ -1,0 +1,45 @@
+Strict voter ID laws hurt minorities
+Author: Hajnal, Zoltan L
+Publication info: Los Angeles Times ; Los Angeles, Calif. [Los Angeles, Calif]08 Sep 2016: A.13.
+ProQuest document link
+Abstract:
+[...]where these laws are implemented, white turnout goes up marginally, compared with non-voter ID states.
+Links:
+Full Text Finder
+Full text:
+The North Carolina voter identification law was blocked last week when the U.S. Supreme Court denied an emergency appeal to reinstate it before the 2016 elections. That's very good news for minorities in the Tar Heel State because we now know that such laws significantly suppress their votes. Unfortunately, one-fifth of the nation's population is still subject to strict voter ID laws.
+In 10 states this November, people won't be allowed to vote unless they provide identification at the polls. The first of the laws requiring ID was implemented in 2008, and only recently has enough time passed to produce clear answers to the question of how the demand for ID affects turnout.
+My colleagues Nazita Lajevardi and Lindsay Nielson and I analyzed validated voting data from the Cooperative Congressional Election Study in order to follow voter turnout from 2006 through 2014 among members of different groups -- almost a quarter-million Americans in all -- in states with and without strict ID laws.
+The patterns are stark. Where strict identification laws are instituted, racial and ethnic minority turnout significantly declines.
+One way we analyzed the data was to compare the gap in turnout among races and ethnic groups. It is well established that minorities turn out less than whites in most elections in the United States. Our research shows that the racial turnout gap doubles or triples in states that enact strict ID laws.
+Latinos are the biggest losers. Their turnout is 7.1 percentage points lower in general elections and 5.3 percentage points lower in primaries in strict ID states than it is in other states. Strict ID laws lower African American, Asian American and multiracial American turnout as well. In fact, where these laws are implemented, white turnout goes up marginally, compared with non-voter ID states.
+The racial and ethnic patterns persist even after we control for factors other than voter ID laws. We ran the data to check the influence of other state-level electoral laws that encourage or discourage participation, of particular issues in each state and congressional district, of the overall partisanship of each state, and of an array of individual demographic characteristics. Regardless of how we looked at the data, we found that strict voter ID laws suppress minority votes.
+It is unlikely that the falloff in turnout is due to a reduction in actual voter fraud. Voter ID laws can only prevent voter impersonation, where someone votes in another person's place. Despite widespread efforts to find such fraud, documented instances are almost nonexistent. Justin Levitt, law professor and now a deputy assistant attorney general in the Justice Department, tracked voter-impersonation allegations from 2000 through 2014 in all kinds of U.S. elections -- general, primary, special and municipal. As of August 2014, he found 31 credible instances out of more than 1 billion votes cast in general and primary elections alone.
+The suppression patterns in voter ID states have real political consequences. In states where the voices of Latinos, blacks and Asian Americans become more muted and the relative influence of white America grows, the influence of Democrats and liberals wanes and the power of Republicans grows. It should thus not be surprising that strict voter ID laws have been passed almost exclusively by Republican legislatures.
+The political effects are strongest in primary elections. The turnout gap between Republicans and Democrats in primary contests more than doubles from 4.3 points in states without strict ID laws to 9.8 points in states with strict ID laws. Likewise, the gap between conservatives and liberals more than doubles from 7.7 to 20.4 points.
+Strict voter ID laws are in effect in about a third of the presidential election battleground states, where they could make a difference in the outcome, especially if the election tightens through the fall. Down ballot races could also be affected. Senate races in Indiana, Ohio, Arizona and Wisconsin -- all states with strict ID laws and all states with Republican incumbents -- are currently too close to call. By preventing racial and ethnic minorities from voting, and by increasing the influence of Republicans over Democrats, strict ID laws could keep these states red, a far from insignificant outcome given that the Democrats need only flip four seats to gain a Senate majority if they also win the White House (the vice president casts the tie-breaking vote in the Senate).
+Until now, the data to assess the impact of voter ID laws hasn't been available. But the results are in. Strict voter identification laws hurt minorities and they distort and skew American democracy.
+Credit: Zoltan L. Hajnal is a professor of political science at UC San Diego and is coauthor of "Voter Identification Laws and the Suppression of Minority Votes," forthcoming in the Journal of Politics.
+Illustration
+Caption: PHOTO: (no caption); PHOTOGRAPHER:Paul Tong Tribune
+Subject: Minority & ethnic groups; Asian Americans; Voter behavior; Local elections
+Location: United States--US
+Identifier / keyword: Opinion piece
+Publication title: Los Angeles Times; Los Angeles, Calif.
+Pages: A.13
+Publication year: 2016
+Publication date: Sep 8, 2016
+Section: Main News; Part A; Opinion Desk
+Publisher: Los Angeles Times Communications LLC
+Place of publication: Los Angeles, Calif.
+Country of publication: United States, Los Angeles, Calif.
+Publication subject: General Interest Periodicals--United States
+ISSN: 04583035
+Source type: Newspapers
+Language of publication: English
+Document type: Editorial
+ProQuest document ID: 1817481751
+Document URL: https://search.proquest.com/docview/1817481751?accountid=14472
+Copyright: (Copyright (c) 2016 Los Angeles Times)
+Last updated: 2017-11-23
+Database: Global Newsstream

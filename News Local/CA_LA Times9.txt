@@ -1,0 +1,44 @@
+POLITICS WATCH; State GOP alleges voting security holes; Elections chief calls claims 'unfounded' and 'irresponsible.'
+Author: Myers, John
+Publication info: Los Angeles Times ; Los Angeles, Calif. [Los Angeles, Calif]30 Nov 2016: B.2.
+ProQuest document link
+Abstract:
+Leaders of the California Republican Party are alleging that the state's online voter registration system is susceptible to voter fraud, and say they are considering legal action in the days or weeks to come.
+Links:
+Full Text Finder
+Full text:
+Leaders of the California Republican Party are alleging that the state's online voter registration system is susceptible to voter fraud, and say they are considering legal action in the days or weeks to come.
+Harmeet Dhillon, the state party's former vice chair and now a member of the Republican National Committee, said Sunday that party leaders believe the 4-year-old system allows multiple people to be registered from the same computer.
+"The [California] secretary of state's website does not track the IP addresses of the people who register to vote," Dhillon said in a phone interview. "You could literally register hundreds or thousands of people from the same computer."
+When asked Tuesday how a single computer used to register multiple voters might be an indicator of fraud, Dhillon said she believes such a situation makes investigating fraudulent activity more difficult. But she said she does not support any ban on public computers for registering voters, such as the ones used in libraries.
+The website, which asks for personal information, including a driver's license number, was launched in 2012. State elections officials boasted of a record number of voter registration visits -- more than half a million -- on the website over two days in late October.
+"There is more security on the websites that I shopped on Black Friday than there is on the secretary of state's website," Dhillon said.
+An email sent to GOP leaders last weekend by the chairman of the California Republican Party, Jim Brulte, suggested possible legal action over the online site. The email, a copy of which was obtained by the Los Angeles Times, also outlined a handful of other "voter registration/turnout irregularities" during the 2016 election cycle.
+In a written statement to The Times, Secretary of State Alex Padilla said his staff regularly assesses the security of the site and blocks suspicious activity.
+"Undermining confidence in our elections by making unfounded claims of security vulnerabilities and voter fraud is irresponsible," Padilla said. "I will continue to work to protect the integrity of our elections systems while making the voting experience, from voter registration to casting a ballot, accessible, fair and honest."
+Padilla was vocal over the weekend in criticizing President-elect Donald Trump's unproven allegations of widespread voter fraud in California.
+--
+john.myers@latimes.com
+Subject: Web sites; Voter registration; Voter behavior; Political parties; Voter fraud
+Location: California
+Company / organization: Name: Republican Party; NAICS: 813940
+Identifier / keyword: CALIFORNIA REPUBLICAN PARTY VOTER REGISTRATION INTERNET (COMPUTER NETWORK) ELECTION FRAUD
+Publication title: Los Angeles Times; Los Angeles, Calif.
+Pages: B.2
+Publication year: 2016
+Publication date: Nov 30, 2016
+Dateline: SACRAMENTO
+Section: California; Part B; Local Desk
+Publisher: Los Angeles Times Communications LLC
+Place of publication: Los Angeles, Calif.
+Country of publication: United States, Los Angeles, Calif.
+Publication subject: General Interest Periodicals--United States
+ISSN: 04583035
+Source type: Newspapers
+Language of publication: English
+Document type: News
+ProQuest document ID: 1844532247
+Document URL: https://search.proquest.com/docview/1844532247?accountid=14472
+Copyright: (Copyright (c) 2016 Los Angeles Times)
+Last updated: 2019-03-08
+Database: Global Newsstream

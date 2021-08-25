@@ -1,0 +1,48 @@
+Election officials say Oklahoma voting system is secure
+Newspaper October 20, 2016 | Oklahoman, The (Oklahoma City, OK)
+Author: RICK M. GREEN Capitol Bureau rmgreen@oklahoman.com Section: News 555 Words
+Page: 1
+Election officials say Oklahoma voting system is secure
+Several layers of security ensure the integrity of Oklahoma's election system, state officials say. Voter fraud has been rare and isolated. There's never been a known hacking incident.
+
+Voter systems across the country are under scrutiny as Donald Trump has made claims, without providing factual support, that the election is being "rigged."
+
+"The election is absolutely being rigged by the dishonest and distorted media pushing Crooked Hillary — but also at many polling places — SAD," Trump said in a tweet Sunday.
+
+Bryan Dean, a spokesman for the state Election Board, said the state tabulates its votes in a secure system that is not linked to the internet. That's important because anything linked to the internet could have potential for vulnerability.
+
+"None of the system for counting the votes, or for uploading the results, is in any way connected to the internet or any network," Dean said.
+
+In Oklahoma, voters show identification to vote. They fill out paper ballots that are scanned in a machine.
+
+The ballots themselves drop into a secure box. At the end of the night, poll workers put the ballots into sealed transfer boxes.
+
+"Each of the poll workers has to sign the seal and so if anyone gets into that, you could see that the seal has been broken," Dean said.
+
+These sealed transfer boxes are taken to the county election board where they are placed in a locked vault secured by a sheriff's deputy.
+
+The machines themselves are also taken to the county election board, where workers unlock and remove the electronic memory devices so the recorded votes can be uploaded into a secure computer to become part of the statewide election vote totals.
+
+Each machine also produces a tally report showing vote totals. One of these reports is posted on the precinct door, others are brought to the county election board.
+
+If there is any question about results, these reports can be checked against the actual ballots.
+
+Attempts to hack voter rolls have been recorded in this country, but not in Oklahoma.
+
+"It's important to remember that all the hack attempts, and the hacking that has been done, is to really access voter registration databases," Dean said. "None of that would jeopardize the integrity of the election."
+
+He said voter information is behind a secure computer firewall in Oklahoma and there has been no indication of intrusion.
+
+He also said there have been no major cases of voter fraud in Oklahoma.
+
+"We do occasionally have people who will return an absentee ballot and then vote on Election Day," Dean said. "We have one or two of those per election."
+
+"Voter fraud is a felony. If you wanted to have enough voter fraud to change the outcome of an election, you would have to find hundreds to thousands of people willing to commit a felony and risk prison time in order to do that."
+
+Voting systems are handled state by state in this country. Having 50 independent election boards also ensures the integrity of the overall election results.
+
+"Our voting system in this country is the envy of the world," Dean said. "Nobody else has a better system than we have and it's more secure than it's ever been.
+
+"I don't know of any state that actually has its voting system plugged into the internet. It's one of those things you don't do. The actual voting systems themselves are not hackable."
+Copyright (c) 2016 Oklahoma Publishing Company
+
