@@ -19,7 +19,7 @@ dtm_test_trimmed <- convert(df1_dfma_trimmed, to="topicmodels")
 
 result_trimmed <- FindTopicsNumber(
                         dtm_test_trimmed,
-                        topics = seq(from = 2, to = 10, by = 9), #I increased to 25 since there are a large number of documents; for NG < 60 I used 10
+                        topics = seq(from = 2, to = 10, by = 1), #I increased to 25 since there are a large number of documents; for NG < 60 I used 10
                         metrics = c("Griffiths2004","CaoJuan2009","Arun2010","Deveaud2014"),
                         method = "Gibbs",
                         control = list(seed=8999, iter=7500, burnin=2500, alpha=1, delta=1),
