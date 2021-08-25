@@ -30,4 +30,4 @@ result_trimmed <- FindTopicsNumber(
 FindTopicsNumber_plot(result_trimmed)
 ggsave("../ExportFiles/Editorial_Wire.png")
 # "Griffiths2004",
-saveRDS(result_trimmed, paste0("../ExportFiles/topics_search_result","Editorial_Wire.rds"))
+saveRDS(result_trimmed, "../ExportFiles/topics_search_result_Editorial_Wire.rds")

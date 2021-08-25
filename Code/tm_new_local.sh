@@ -6,5 +6,6 @@
 #$ -N  news_local # Specify job name
 
 module load R gsl
+export LD_LIBRARY_PATH=/afs/crc.nd.edu/user/y/yxu6/mpfr/lib:$LD_LIBRARY_PATH
 
 R CMD BATCH topicmodel_news_local.r
