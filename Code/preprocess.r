@@ -5,10 +5,7 @@ library(tidyr)
 library(quanteda)
 library(writexl)
 library(readxl)
-library(keyATM)
-library(ldatuning)
 library(tidytext)
-library(topicmodels)
 
 file_list = list.files(path="/home/yang/VF2016Combined", pattern="txt$", recursive=TRUE)
 
@@ -30,10 +27,18 @@ raw_data = raw_data %>%
 
 temp = raw_data %>% filter(title == 'CA_LA Times70.txt') %>% pull(raw_text)
 
+battle_ground_keys = "TucsonDailyStar|DenverPost|TampaBayTimes|Quad-CityTimes|DetroitNews|LasVegasReview-Journal|Union-Leader|CharlotteObserver|PlainDealer|RichmondTimesDispatch|MilwaukeeJournalSentinel"
+
 df1_tbl <- raw_data %>%
                 mutate(raw_text = str_to_lower(raw_text)) %>%
                 mutate(raw_text = str_replace_all(raw_text, "\\r\\n", " ")) %>%
-                mutate(raw_text = str_replace_all(raw_text, "\\s+"," "))
+                mutate(raw_text = str_replace_all(raw_text, "\\s+"," ")) %>%
+                mutate(battle_ground_refer = str_to_lower(file_path)) %>%
+                mutate(battle_ground_refer = str_replace_all(battle_ground_refer, "\\s+","")) %>%
+                mutate(battle_ground_dummy = ifelse(str_detect(battle_ground_refer, str_to_lower(battle_ground_keys)),1,0)) %>%
+                select(-battle_ground_refer)
+
+
 glimpse(df1_tbl)
 
 #  df1_tbl1 <- df1_tbl %>%
