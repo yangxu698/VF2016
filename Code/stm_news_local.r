@@ -15,4 +15,4 @@ dfm_stm <- convert(df1_dfma_trimmed, to="stm")
 
 model.stm1 <- stm(dfm_stm$documents, dfm_stm$vocab, K = 4, data = dfm_stm$meta, prevalence=~battle_ground_dummy, init.type = "Spectral", seed=1234)
 
-saveRDS(list(dfm_stm, model.stm1), "STM_News_Local_Covariate.rds")
+saveRDS(list(dfm_stm, model.stm1), "../ExportFiles/STM_News_Local_Covariate.rds")
