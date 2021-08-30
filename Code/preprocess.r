@@ -51,6 +51,7 @@ glimpse(df1_tbl)
 
 saveRDS(df1_tbl, 'df1_tbl_2016_all.rds')
 
+df1_tbl = readRDS('df1_tbl_2016_all.rds')
 section = df1_tbl %>% pull(section) %>% unique()
 
 for (element in section){
@@ -58,7 +59,8 @@ for (element in section){
               filter(section == element) %>%
               rename(doc_id=file_path,text=raw_text) %>%
               corpus() %>%
-              tokens() %>% 
+              tokens() %>%
+              tokens_remove(pattern = c(stopwords("english"),"=","<",">","+","u","e.g","etc"), padding=TRUE) %>%
               tokens_ngrams(n=2, concatenator = " ") %>%
               dfm(remove_url = TRUE, remove_numbers = TRUE, remove_punct = TRUE, remove_separators=TRUE, remove_symbols=TRUE, verbose=TRUE) %>%
               dfm_remove(pattern = c(stopwords("english"),"=","<",">","+","u","e.g","etc","may","include","can","see","eg","must","time","i.e","s","t","https","m","com","also","need","just","said",
