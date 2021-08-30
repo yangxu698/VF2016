@@ -59,7 +59,7 @@ for (element in section){
               filter(section == element) %>%
               rename(doc_id=file_path,text=raw_text) %>%
               corpus() %>%
-              tokens() %>%
+              tokens(remove_punct=TRUE, remoev_symbols=TRUE, remove_numbers=TRUE, remove_url=TRUE, remove_separators=TRUE, verbose=quanteda_options("verbose")) %>%
               tokens_remove(pattern = c(stopwords("english"),"=","<",">","+","u","e.g","etc"), padding=TRUE) %>%
               tokens_ngrams(n=2, concatenator = " ") %>%
               dfm(remove_url = TRUE, remove_numbers = TRUE, remove_punct = TRUE, remove_separators=TRUE, remove_symbols=TRUE, verbose=TRUE) %>%

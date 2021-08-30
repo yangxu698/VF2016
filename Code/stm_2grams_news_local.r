@@ -6,6 +6,7 @@ library(quanteda)
 library(tidytext)
 library(topicmodels)
 library(stm)
+library(tidyverse)
 
 setwd("/home/yang/VF2016Combined/Code")
 
