@@ -1,0 +1,212 @@
+
+R version 3.6.2 (2019-12-12) -- "Dark and Stormy Night"
+Copyright (C) 2019 The R Foundation for Statistical Computing
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+[Previously saved workspace restored]
+
+> library(dplyr)
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+> library(tibble)
+> library(tidyr)
+> library(ggplot2)
+> library(quanteda)
+Package version: 3.0.0
+Unicode version: 10.0
+ICU version: 61.1
+Parallel computing: 24 of 24 threads used.
+See https://quanteda.io for tutorials and examples.
+> library(tidytext)
+> library(topicmodels)
+> library(stm)
+stm v1.3.6 successfully loaded. See ?stm for help. 
+ Papers, resources, and other materials at structuraltopicmodel.com
+> 
+> setwd("/home/yang/VF2016Combined/Code")
+Error in setwd("/home/yang/VF2016Combined/Code") : 
+  cannot change working directory
+> 
+> df1_dfma_trimmed = readRDS("../News Local_df1_dfma_trimmed.rds")
+> 
+> dfm_stm <- convert(df1_dfma_trimmed, to="stm")
+> 
+> model.stm1 <- stm(dfm_stm$documents, dfm_stm$vocab, K = 4, data = dfm_stm$meta, prevalence=~battle_ground_dummy, init.type = "Spectral", seed=1234)
+Beginning Spectral Initialization 
+	 Calculating the gram matrix...
+	 Using only 10000 most frequent terms during initialization...
+	 Finding anchor words...
+ 	....
+	 Recovering initialization...
+ 	....................................................................................................
+Initialization complete.
+........................................................................................................................
+Completed E-Step (0 seconds). 
+Completed M-Step. 
+Completing Iteration 1 (approx. per word bound = -12.298) 
+........................................................................................................................
+Completed E-Step (0 seconds). 
+Completed M-Step. 
+Completing Iteration 2 (approx. per word bound = -9.356, relative change = 2.392e-01) 
+........................................................................................................................
+Completed E-Step (0 seconds). 
+Completed M-Step. 
+Completing Iteration 3 (approx. per word bound = -9.310, relative change = 4.939e-03) 
+........................................................................................................................
+Completed E-Step (0 seconds). 
+Completed M-Step. 
+Completing Iteration 4 (approx. per word bound = -9.307, relative change = 3.287e-04) 
+........................................................................................................................
+Completed E-Step (0 seconds). 
+Completed M-Step. 
+Completing Iteration 5 (approx. per word bound = -9.306, relative change = 9.361e-05) 
+Topic 1: . ", , ", . ., voter fraud, los angeles 
+ Topic 2: . ", , ", said ., u.s ., voter fraud 
+ Topic 3: . ", voter fraud, , ", los angeles, said . 
+ Topic 4: . ", , ", said ., voter fraud, , said 
+........................................................................................................................
+Completed E-Step (0 seconds). 
+Completed M-Step. 
+Completing Iteration 6 (approx. per word bound = -9.305, relative change = 6.805e-05) 
+........................................................................................................................
+Completed E-Step (0 seconds). 
+Completed M-Step. 
+Completing Iteration 7 (approx. per word bound = -9.305, relative change = 5.994e-05) 
+........................................................................................................................
+Completed E-Step (0 seconds). 
+Completed M-Step. 
+Completing Iteration 8 (approx. per word bound = -9.304, relative change = 4.847e-05) 
+........................................................................................................................
+Completed E-Step (0 seconds). 
+Completed M-Step. 
+Completing Iteration 9 (approx. per word bound = -9.304, relative change = 3.950e-05) 
+........................................................................................................................
+Completed E-Step (0 seconds). 
+Completed M-Step. 
+Completing Iteration 10 (approx. per word bound = -9.304, relative change = 2.770e-05) 
+Topic 1: . ", , ", . ., voter fraud, los angeles 
+ Topic 2: . ", , ", said ., u.s ., voter fraud 
+ Topic 3: . ", voter fraud, los angeles, , ", said . 
+ Topic 4: . ", , ", said ., voter fraud, , said 
+........................................................................................................................
+Completed E-Step (0 seconds). 
+Completed M-Step. 
+Completing Iteration 11 (approx. per word bound = -9.304, relative change = 1.933e-05) 
+........................................................................................................................
+Completed E-Step (0 seconds). 
+Completed M-Step. 
+Completing Iteration 12 (approx. per word bound = -9.304, relative change = 1.191e-05) 
+........................................................................................................................
+Completed E-Step (0 seconds). 
+Completed M-Step. 
+Model Converged 
+> 
+> saveRDS(list(dfm_stm, model.stm1), "../ExportFiles/STM_2grams_News_Local_Covariate.rds")
+> 
+> stm_2grams_news_local = readRDS("../ExportFiles/STM_2grams_News_Local_Covariate.rds")
+> 
+> df1_tb1_news_local = readRDS("../News Local_df1_dfma_trimmed.rds")
+> 
+> model_stm = stm_2grams_news_local[[2]]
+> stm_df <- data.frame(t(labelTopics(model_stm, n = 25)$prob))
+> td_beta <- tidy(model_stm)
+> td_gamma <- tidy(model_stm, matrix = "gamma",
++                  document_names = rownames(df1_tb1_news_local))
+> 
+> top_terms <- td_beta %>%
++   arrange(beta) %>%
++   group_by(topic) %>%
++   top_n(10, beta) %>%
++   arrange(-beta) %>%
++   select(topic, term) %>%
++   summarize(terms = list(term)) %>%
++   mutate(terms = map(terms, paste, collapse = ", ")) %>%
++   unnest(cols=c(topic,terms))
+Error: Problem with `mutate()` column `terms`.
+ℹ `terms = map(terms, paste, collapse = ", ")`.
+✖ could not find function "map"
+Backtrace:
+    █
+ 1. ├─`%>%`(...)
+ 2. ├─tidyr::unnest(., cols = c(topic, terms))
+ 3. ├─dplyr::mutate(., terms = map(terms, paste, collapse = ", "))
+ 4. ├─dplyr:::mutate.data.frame(., terms = map(terms, paste, collapse = ", "))
+ 5. │ └─dplyr:::mutate_cols(.data, ..., caller_env = caller_env())
+ 6. │   ├─base::withCallingHandlers(...)
+ 7. │   └─mask$eval_all_mutate(quo)
+ 8. └─base::.handleSimpleError(...)
+ 9.   └─dplyr:::h(simpleError(msg, call))
+> top_terms
+Error: object 'top_terms' not found
+> 
+> gamma_terms <- td_gamma %>%
++   group_by(topic) %>%
++   summarize(gamma = mean(gamma)) %>%
++   arrange(desc(gamma)) %>%
++   left_join(top_terms, by = "topic") %>%
++   mutate(topic = paste0("Topic ", topic),
++          topic = reorder(topic, gamma))
+Error in is.data.frame(y) : object 'top_terms' not found
+Calls: %>% ... auto_copy -> same_src -> same_src.data.frame -> is.data.frame
+> gamma_terms
+Error: object 'gamma_terms' not found
+> 
+> ## write_csv(gamma_terms, "STM Topic Gamma Values.csv") #SEND TO ME
+> 
+> stm_classifications2 <- td_gamma %>%
++   group_by(document) %>%
++   top_n(1, gamma) %>%
++   ungroup() %>%
++   arrange(topic)
+> stm_classifications2
+# A tibble: 482 x 3
+   document                                      topic gamma
+   <chr>                                         <int> <dbl>
+ 1 News Local/AL_Birmingham News17.txt               1 0.998
+ 2 News Local/AL_Birmingham News18.txt               1 0.998
+ 3 News Local/AR_Arkansas Democrat-Gazette27.txt     1 0.999
+ 4 News Local/CA_LA Times1.txt                       1 0.999
+ 5 News Local/CA_LA Times14.txt                      1 0.999
+ 6 News Local/CA_LA Times15.txt                      1 0.999
+ 7 News Local/CA_LA Times16.txt                      1 0.999
+ 8 News Local/CA_LA Times18.txt                      1 0.999
+ 9 News Local/CA_LA Times2.txt                       1 0.999
+10 News Local/CA_LA Times34.txt                      1 0.999
+# … with 472 more rows
+> 
+> gamma_terms %>%
++   mutate_at(vars(topic), list(as.character)) %>%
++   separate(topic, c("temp", "topic_number"), sep=' ', remove=FALSE) %>%
++   mutate_at(vars(topic_number), list(as.numeric)) %>%
++   left_join(stm_classifications2 %>% count(topic), by=c('topic_number'='topic')) %>%
++   select(-temp) %>%
++   saveRDS("../ExportFiles/News_Local_stm_result.rds")
+Error in tbl_vars_dispatch(x) : object 'gamma_terms' not found
+Calls: %>% ... tbl_vars -> new_sel_vars -> structure -> tbl_vars_dispatch
+> 
+> proc.time()
+   user  system elapsed 
+ 50.172  17.668  70.282 
