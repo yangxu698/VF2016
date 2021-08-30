@@ -103,4 +103,3 @@ gamma_terms %>%
   left_join(stm_classifications2 %>% count(topic), by=c('topic_number'='topic')) %>%
   select(-temp) %>%
   saveRDS("../ExportFiles/News_Wire_stm_result.rds")
-summary(model.stm.ee <- estimateEffect(c(1,8) ~ ng, model.stm1, meta = dfm_stm1$meta, uncertainty = "Global")) #the 'c(1,8)' refers to running analysis for topics 1 and 8

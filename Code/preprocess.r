@@ -58,6 +58,8 @@ for (element in section){
               filter(section == element) %>%
               rename(doc_id=file_path,text=raw_text) %>%
               corpus() %>%
+              tokens() %>% 
+              tokens_ngrams(n=2, concatenator = " ") %>%
               dfm(remove_url = TRUE, remove_numbers = TRUE, remove_punct = TRUE, remove_separators=TRUE, remove_symbols=TRUE, verbose=TRUE) %>%
               dfm_remove(pattern = c(stopwords("english"),"=","<",">","+","u","e.g","etc","may","include","can","see","eg","must","time","i.e","s","t","https","m","com","also","need","just","said",
                             "like","going","know","according","get","now","re","even"), verbose=TRUE)
