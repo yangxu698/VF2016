@@ -25,6 +25,14 @@ for article in corpus_list:
     names_list.append(name_temp)
     locations_list.append(location_temp)
 
-locations_list[25]
-locations2 = set([ee for ee in sents2.ents if ee.label_=='GPE'])
-set(locations2)
+locations_list[390:400]
+locations2 = [ee for ee in sents2.ents if ee.label_=='GPE']
+type(locations2[0])
+
+file_name_location = pd.DataFrame({'file_name':[file.split('/')[-1] for file in file_list],
+                                   'article':corpus_list,
+                                   'names_list':names_list,
+                                   'locations_list':locations_list})
+file_name_location.to_excel("../ExportFiles/NewsLocalNameLocationV1.xlsx", index=False)
+
+os.getcwd()
