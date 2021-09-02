@@ -34,5 +34,3 @@ file_name_location = pd.DataFrame({'file_name':[file.split('/')[-1] for file in 
                                    'names_list':names_list,
                                    'locations_list':locations_list})
 file_name_location.to_excel("../ExportFiles/NewsLocalNameLocationV1.xlsx", index=False)
-
-os.getcwd()
